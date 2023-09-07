@@ -1,3 +1,4 @@
+
 # API-Pokemon
 desafio backend modulo 2
 
@@ -31,8 +32,10 @@ npm run dev
 ##### Retorna uma lista com os 10 primeiros pokemons
 
 ```http
-  http://localhost:8000/pokemon
+http://localhost:8000/pokemon
 ```
+![api-pokemon-listar](https://github.com/Fabis-li/API-Pokemon/assets/92187560/60ed14c8-46ed-455f-a1a9-5a3c672e03dd) 
+
 ##### Mostra os detalhes de um pokemon
 
 ```http
@@ -43,5 +46,4 @@ npm run dev
 | :---------- | :------------------------------------------ |
 | `idOuNome`      |**Obrigatório**. Número ou Nome do pokemon |
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![api-pokemon-detalhe](https://github.com/Fabis-li/API-Pokemon/assets/92187560/ff54c77f-fb16-476f-94b1-4390deb3fba4)
